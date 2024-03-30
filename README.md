@@ -10,7 +10,9 @@ library](https://deepxde.readthedocs.io/en/latest/demos/operator/antiderivative_
 📺 [Here](https://youtu.be/cngSwV6MDYshttps://youtu.be/cngSwV6MDYs) you can find
 a video with detailed explanations to code along.
 
-💽 Want more Machine Learning & Simulation. Check out the repo with more codes and handwritten notes.
+💽 Want more Machine Learning & Simulation? Check out [this
+repo](https://github.com/Ceyron/machine-learning-and-simulation) with more codes
+and handwritten notes.
 
 ### About DeepONets
 
